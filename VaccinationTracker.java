@@ -1,9 +1,19 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
 package healthapp;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
+
+/**
+ * @author rodrigo bonorino
+ * date: 01/12/24 - changes from previous submition.
+ * VaccinationTracker.java
+ */
 
 // Class to store vaccination record details
 class VaccinationRecord {
