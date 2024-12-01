@@ -11,7 +11,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  * @author rodrigo bonorino
- * date: 01/12/24 - changes from previous submition.
+ * date: 01/12/24
  * VaccinationTracker.java
  */
 
